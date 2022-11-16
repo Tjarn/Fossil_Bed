@@ -7,3 +7,9 @@ I've made the commitment to work through the foundation parts as a quick scan sh
 This repository will contain my first fumbles and I'll try to keep a journal of my journey here too. Oh, if for some strange reason you might wonder whether you could use anything I author, if it's here, I'll probably say 'yes' but would appreciate it if you would ask first.
 
 OK, I've signed up for an account, created a repository -- a Fossil Bed for an old fossil to rest in.  Now to get out of here and see if I can get back.
+
+# Purpose
+
+This repo was created as a learning exercise.  I'm now repurposing to capture
+the various python programs I've hacked out over the years. Mostly it's going to be finding them, and addit documentation as needed.
+
