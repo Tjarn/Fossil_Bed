@@ -1,0 +1,6 @@
+#!/bin/bash
+
+echo "Making new virtual environment"
+
+/usr/local/bin/virtualenv --python=/partitions/sdb10/miniconda3/bin/python3.7\
+       	--prompt="V3.7 " FooBar
